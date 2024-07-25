@@ -1,0 +1,40 @@
+.container{
+    max-width: 40%;
+    }
+    .pg-red{
+        
+        padding: 10px;
+        text-align: right;
+
+    }
+    .head-sec{
+        color: #128a7e;
+        padding: 50px;
+        text-align: right;
+    }
+    .head-sec img{
+        max-height: 30px;
+    
+    }
+    .pg-gray{
+        background-color: #DDDDDD;
+        padding: 10px;
+        margin-top: 20px;
+    }
+    
+    .container-lvl-2{
+        padding: 20px;
+        margin-top: 150px;
+    }
+    .container-lvl-2 .main-img{
+        
+        border-radius: 10%;
+        display: block;
+      margin-top: -150px;
+    
+    }
+    body{
+        background-color: #128a7e;
+        display: flex;
+        justify-content: center;
+    }
